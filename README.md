@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Anshika-13301&label=Profile%20views)
 ---
 ## Hi, I'm Anshika 👋
----
 🎓 Computer Science Student | 💻 Aspiring Full-Stack Developer  
 🚀 Completed **2 Internships** | Passionate about building real-world applications
 
@@ -21,4 +20,4 @@ I am a motivated developer with hands-on experience gained through **two interns
 ---
 ### 📫 Connect With Me
 - GitHub: https://github.com/Anshika-13301
-- Email: your-shuklaanshika@eng.rizvi.edu.in
+- Email:shuklaanshika@eng.rizvi.edu.in
