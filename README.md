@@ -1,5 +1,6 @@
-## Hi, I'm Anshika 👋
 ![](https://komarev.com/ghpvc/?username=Anshika-13301&label=Profile%20views)
+---
+## Hi, I'm Anshika 👋
 ---
 🎓 Computer Science Student | 💻 Aspiring Full-Stack Developer  
 🚀 Completed **2 Internships** | Passionate about building real-world applications
