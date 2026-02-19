@@ -17,7 +17,7 @@ I am a motivated developer with hands-on experience gained through **two interns
 - Worked on real-world tasks and projects
 - Learned industry practices, teamwork, and code structuring
 - Gained practical exposure beyond academics
-  
+---
 ### 📫 Connect With Me
 - GitHub: https://github.com/Anshika-13301
 - Email: your-shuklaanshika@eng.rizvi.edu.in
