@@ -3,12 +3,9 @@
 
 
 ## Hi, I'm Anshika 👋
----
 
  💻 Aspiring Full-Stack Developer  
 🚀 Completed **2 Internships** | Passionate about building real-world applications
-
----
 
 ### 👩‍💻 About Me
 I am a motivated developer with hands-on experience gained through **two internships**, where I worked on real projects, understood professional workflows, and improved my problem-solving skills.  
