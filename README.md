@@ -13,15 +13,6 @@
 ### 👩‍💻 About Me
 I am a motivated developer with hands-on experience gained through **two internships**, where I worked on real projects, understood professional workflows, and improved my problem-solving skills.  
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-13301&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=Anshika-13301&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ### 🏢 Internship Experience
 - ✅ Completed **2 Internships**
 - Worked on real-world tasks and projects
